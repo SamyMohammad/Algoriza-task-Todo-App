@@ -37,7 +37,7 @@ int? index;
 
             ]
         ),
-         Spacer(),
+        const Spacer(),
         Checkbox(
 
             shape: RoundedRectangleBorder(
