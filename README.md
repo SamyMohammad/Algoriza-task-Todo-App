@@ -1,5 +1,10 @@
 # to_do_algoriza
 an nice gif for the task
+
+![algoriza task gif](https://user-images.githubusercontent.com/90985995/181443720-5e90d390-88e2-44ab-91b5-eaa79ec5e4c4.gif)
+
+ pics
+
 ![algoriza task gif](https://user-images.githubusercontent.com/90985995/181443720-5e90d390-88e2-44ab-91b5-eaa79ec5e4c4.gif)
 
 A new Flutter project.
